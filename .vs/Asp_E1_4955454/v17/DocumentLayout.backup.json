@@ -1,12 +1,54 @@
 {
   "Version": 1,
   "WorkspaceRootPath": "C:\\Users\\49554\\Desktop\\Practica 3\\Asp_E1_4955454\\",
-  "Documents": [],
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{C327EA28-699A-468D-8ED7-223671BCF45A}|Asp_E1_4955454.csproj|c:\\users\\49554\\desktop\\practica 3\\asp_e1_4955454\\cookie.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C327EA28-699A-468D-8ED7-223671BCF45A}|Asp_E1_4955454.csproj|solutionrelative:cookie.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C327EA28-699A-468D-8ED7-223671BCF45A}|Asp_E1_4955454.csproj|c:\\users\\49554\\desktop\\practica 3\\asp_e1_4955454\\cookie.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{C327EA28-699A-468D-8ED7-223671BCF45A}|Asp_E1_4955454.csproj|solutionrelative:cookie.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    }
+  ],
   "DocumentGroupContainers": [
     {
       "Orientation": 0,
       "VerticalTabListWidth": 256,
-      "DocumentGroups": []
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Cookie.aspx.cs",
+              "DocumentMoniker": "C:\\Users\\49554\\Desktop\\Practica 3\\Asp_E1_4955454\\Cookie.aspx.cs",
+              "RelativeDocumentMoniker": "Cookie.aspx.cs",
+              "ToolTip": "C:\\Users\\49554\\Desktop\\Practica 3\\Asp_E1_4955454\\Cookie.aspx.cs",
+              "RelativeToolTip": "Cookie.aspx.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAmwB0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-03T21:39:35.601Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Cookie.aspx",
+              "DocumentMoniker": "C:\\Users\\49554\\Desktop\\Practica 3\\Asp_E1_4955454\\Cookie.aspx",
+              "RelativeDocumentMoniker": "Cookie.aspx",
+              "ToolTip": "C:\\Users\\49554\\Desktop\\Practica 3\\Asp_E1_4955454\\Cookie.aspx",
+              "RelativeToolTip": "Cookie.aspx",
+              "LogicalView": "7651a702-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2025-03-03T21:37:26.144Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
     }
   ]
 }
